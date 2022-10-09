@@ -1,0 +1,13 @@
+name = "Ughck"
+author = "wathhr, Lane"
+version = "0.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ce0ddcda3c24a318cb64c86a605c555f1daf1f3fa9c3083361fc760694eddc80"
+
+[versions]
+fabric = "0.14.9"
+minecraft = "1.19.2"
